@@ -91,7 +91,7 @@ st.write("""
 Heart disease remains one of the leading causes of mortality worldwide. Early detection and awareness are crucial for effective management and prevention. This app is designed to offer a user-friendly interface for individuals to input their health data and receive a risk assessment based on their profile.
 """)
 st.write("""
-##### **Please read the usage on the left side bar before using!**
+##### **Please read the usage on the left sidebar before using!**
 """)
 st.text("")
 # Input layout
