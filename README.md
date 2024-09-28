@@ -4,6 +4,7 @@
 
 This project implements a web application for predicting heart disease risk using machine learning. The app allows users to input their health metrics and receive a risk assessment based on trained models. It leverages Streamlit for a user-friendly interface and utilizes pre-trained models to make predictions.
 
+Check out the live Streamlit App [here](https://heartriskprediction.streamlit.app/).
 ## Project Structure
 
 ```
@@ -70,4 +71,4 @@ After entering the data, users can click the `Predict` button to receive a risk 
 - This app is **NOT** a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician with any questions regarding a medical condition.
 - Ensure all input fields are filled out correctly to receive an accurate prediction.
 
-Feel free to personalize this README with your GitHub username and any additional information you'd like to include!
+Feel free to adjust the structure to fit your actual project layout!
