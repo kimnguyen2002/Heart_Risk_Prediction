@@ -5,6 +5,11 @@
 This project implements a web application for predicting heart disease risk using machine learning. The app allows users to input their health metrics and receive a risk assessment based on trained models. It leverages Streamlit for a user-friendly interface and utilizes pre-trained models to make predictions.
 
 Check out the live Streamlit App [here](https://heartriskprediction.streamlit.app/).
+
+Image from the web:
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPpyFWJhVNAwJ_N3PvJBhpWtRQ3HkPNTjH6bImFfGj6v1W-ipYZ26hqVT2f8s-reyGwdmvZHC5Jra0SYd6hcz6t-kuEKQUTmljzvnUFmx4vGOw6JiOG=w2400" alt="alt text" width="800" />
+
 ## Project Structure
 
 ```
@@ -40,7 +45,7 @@ To run this project locally, follow these steps:
    streamlit run app.py
    ```
 
-4. Open your web browser and navigate to `http://localhost:8501` to access the application.
+4. Open your web browser and navigate to `http://yourlocalhost` to access the application.
 
 ## Usage
 
@@ -70,5 +75,9 @@ After entering the data, users can click the `Predict` button to receive a risk 
 
 - This app is **NOT** a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician with any questions regarding a medical condition.
 - Ensure all input fields are filled out correctly to receive an accurate prediction.
+
+## License
+
+This project is licensed under the MIT License.
 
 Feel free to adjust the structure to fit your actual project layout!
